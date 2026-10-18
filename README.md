@@ -116,7 +116,6 @@ For accessing private/shared Google files:
 4. Create OAuth 2.0 credentials (Desktop app)
 5. Download JSON, save as `credentials.json` in repo directory
 
-See [SETUP.md](SETUP.md) for detailed guide.
 
 ## 📦 Installation
 
