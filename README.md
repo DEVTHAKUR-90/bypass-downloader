@@ -1,10 +1,22 @@
-# BYPASS DOWNLOADER ⚡
+<div align="center">
 
-**Universal Unrestricted File Downloader** – Download anything from anywhere, even when access is restricted.
+<pre>
+___  _   _ ___  ____ ____ ____    ___  ____ _ _ _ _  _ _    ____ ____ ___  ____ ____ 
+|__]  \_/  |__] |__| [__  [__     |  \ |  | | | | |\ | |    |  | |__| |  \ |___ |__/ 
+|__]   |   |    |  | ___] ___]    |__/ |__| |_|_| | \| |___ |__| |  | |__/ |___ |  \ 
+
+</pre>
+
+</div>
+
+<div align="center">
+Universal Unrestricted File Downloader** – Download anything from anywhere, even when access is restricted.
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![Status](https://img.shields.io/badge/status-production-brightgreen)
+
+</div>
 
 ## 🎯 Features
 
