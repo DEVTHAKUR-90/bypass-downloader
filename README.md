@@ -189,15 +189,3 @@ Install all: `pip install -r requirements.txt`
 
 MIT License – See [LICENSE](LICENSE)
 
-## 💬 Support
-
-- **Issues** – GitHub Issues
-- **Email** – iamdev904590@gmail.com
-
-## 🎓 Documentation
-
-- [SETUP.md](SETUP.md) – OAuth2 setup, troubleshooting
-- [example.py](example.py) – Python usage examples
-- [GITHUB_DESCRIPTION.md](GITHUB_DESCRIPTION.md) – GitHub setup guide
-
----
